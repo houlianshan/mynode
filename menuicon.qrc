@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/del.png</file>
+        <file>icon/delDir.png</file>
+        <file>icon/delFile.png</file>
+        <file>icon/new.png</file>
+        <file>icon/newDir.png</file>
+        <file>icon/exit.png</file>
+        <file>icon/about.png</file>
+        <file>icon/qiehuan.png</file>
+        <file>icon/shengji.png</file>
+        <file>icon/ziliao.png</file>
+        <file>icon/favicon.ico</file>
+        <file>icon/collection.png</file>
+        <file>icon/file.png</file>
+        <file>icon/normalDir.png</file>
+        <file>icon/openDir.png</file>
+    </qresource>
+</RCC>
